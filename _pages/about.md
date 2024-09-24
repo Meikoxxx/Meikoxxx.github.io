@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Ajay Zalavadia, Ph.D."
+excerpt: "HELLO"
 author_profile: true
 redirect_from: 
   - /about/
